@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecyclerItemClickSupport.iml" filepath="$PROJECT_DIR$/RecyclerItemClickSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleritemclicksupport/recycleritemclicksupport.iml" filepath="$PROJECT_DIR$/recycleritemclicksupport/recycleritemclicksupport.iml" />
+    </modules>
+  </component>
+</project>

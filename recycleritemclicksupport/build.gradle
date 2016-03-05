@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'RecyclerItemClickSupport'
+
+    publishedGroupId = 'com.rohit.recycleritemclicksupport'
+    libraryName = 'RecyclerItemClickSupport'
+    artifact = 'recycleritemclicksupport'
+
+    libraryDescription = 'Recycler view OnClickSupport'
+
+    siteUrl = 'https://github.com/stormtheh4ck3r/RecyclerItemClickSupport'
+    gitUrl = 'https://github.com/stormtheh4ck3r/RecyclerItemClickSupport.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'rohitshampur'
+    developerName = 'Rohit Shampur'
+    developerEmail = 'rohitshampur09@yahoo.com'
+
+    licenseName = 'Unliscensed'
+    licenseUrl = 'http://unlicense.org'
+    allLicenses = ["Unliscensed"]
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:recyclerview-v7:23.2.0'
+    compile 'com.android.support:appcompat-v7:23.2.0'
+}
