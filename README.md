@@ -1,4 +1,8 @@
+[ ![Download](https://api.bintray.com/packages/rohitshampur/maven/RecyclerItemClickSupport/images/download.svg) ](https://bintray.com/rohitshampur/maven/RecyclerItemClickSupport/_latestVersion)
+
 # RecyclerItemClickSupport
+
+
 
 RecyclerView is a great class what you should consider over ListView for building list interfaces. It offers more flexibility and has built-in hooks that make implementing animations and custom layouts much easier compared to ListView.
 
