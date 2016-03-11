@@ -1,4 +1,4 @@
-[ ![Download](https://api.bintray.com/packages/rohitshampur/maven/RecyclerItemClickSupport/images/download.svg) ](https://bintray.com/rohitshampur/maven/RecyclerItemClickSupport/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/rohitshampur/maven/RecyclerItemClickSupport/images/download.svg) ](https://bintray.com/rohitshampur/maven/RecyclerItemClickSupport/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RecyclerItemClickSupport-green.svg?style=true)](https://android-arsenal.com/details/1/3268)
 
 # RecyclerItemClickSupport
 
