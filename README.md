@@ -25,7 +25,15 @@ ItemClickSupport.addTo(mRecyclerView).setOnItemClickListener(new ItemClickSuppor
 To use this library add below dependency to build.gradle 
 
 ```gradle
+
+repositories{
+        jcenter()
+    }
+
+
+dependencies {
 compile 'com.rohit.recycleritemclicksupport:recycleritemclicksupport:1.0.0'
+}
 ```
 
 All credits goes to [Hugo Visser](https://plus.google.com/+HugoVisser/posts) and [the website](http://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks)
