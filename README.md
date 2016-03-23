@@ -32,7 +32,7 @@ repositories{
 
 
 dependencies {
-compile 'com.rohit.recycleritemclicksupport:recycleritemclicksupport:1.0.0'
+compile 'com.rohit.recycleritemclicksupport:recycleritemclicksupport:1.0.1'
 }
 ```
 
