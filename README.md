@@ -1,4 +1,8 @@
+[ ![Download](https://api.bintray.com/packages/rohitshampur/maven/RecyclerItemClickSupport/images/download.svg) ](https://bintray.com/rohitshampur/maven/RecyclerItemClickSupport/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RecyclerItemClickSupport-green.svg?style=true)](https://android-arsenal.com/details/1/3268)
+
 # RecyclerItemClickSupport
+
+
 
 RecyclerView is a great class what you should consider over ListView for building list interfaces. It offers more flexibility and has built-in hooks that make implementing animations and custom layouts much easier compared to ListView.
 
