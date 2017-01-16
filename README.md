@@ -14,7 +14,7 @@ The resulting code to hook up a click listener now looks like this:
 
 ```java
 
-RecyclerItemClickSupport.addTo(mRecyclerView).setOnItemClickListener(new ItemClickSupport.OnItemClickListener() {
+RecyclerItemClickSupport.addTo(mRecyclerView).setOnItemClickListener(new RecyclerItemClickSupport.OnItemClickListener() {
     @Override
     public void onItemClicked(RecyclerView recyclerView, int position, View v) {
         // do something
