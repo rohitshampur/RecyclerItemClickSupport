@@ -38,7 +38,7 @@ compile 'com.rohit.recycleritemclicksupport:recycleritemclicksupport:1.0.1'
 
 All credits goes to [Hugo Visser](https://plus.google.com/+HugoVisser/posts) and [the website](http://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks)
 
-Liscensed under [Unlicense.org](http://unlicense.org/)
+Licensed under [Unlicense.org](http://unlicense.org/)
 
 This is free and unencumbered software released into the public domain.
 
